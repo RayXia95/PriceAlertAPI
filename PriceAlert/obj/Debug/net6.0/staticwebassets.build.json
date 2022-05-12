@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XrGwAZWliG0FPDbduaCF9QC166oi0diKWIFP5G3bGhM=",
+  "Source": "PriceAlertAPI",
+  "BasePath": "_content/PriceAlertAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
